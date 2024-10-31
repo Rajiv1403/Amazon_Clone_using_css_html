@@ -1,1 +1,1 @@
-# Amazon_Clone_using_css_html
+THIS IS AMAZON CLONE USING HTML AND CSS 
